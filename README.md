@@ -7,10 +7,11 @@ This repository contains solutions and exercises from the **Scientific Computing
 
 - [Overview](#overview)
 - [Projects](#projects)
-  - [Arithmetic Arranger](#arithmetic-arranger)
-  - [Budget App](#budget-app)
-  - [Polygon Area Calculator](#polygon-area-calculator)
-  - [Probability Calculator](#probability-calculator)
+  - [Arithmetic Arranger](#ArithimeticFormatter)
+  - [Budget App](#BudgetApp)
+  - [Polygon Area Calculator](#PolygonAreaCalculator)
+  - [Probability Calculator](#ProbabilityCalculator)
+  - [Time Calculator](#TimeCalculator)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -21,28 +22,31 @@ The **Scientific Computing with Python** course is part of the FreeCodeCamp curr
 
 ## Projects
 
-### Arithmetic Arranger
+### Arithmetic Formatter
 
-The `arithmetic_arranger.py` script arranges and optionally solves simple arithmetic problems. It takes a list of arithmetic problems and returns a neatly formatted string, optionally including the solutions.
+The `ArithmeticFormatter.py` script arranges and optionally solves simple arithmetic problems. It takes a list of arithmetic problems and returns a neatly formatted string, optionally including the solutions.
 
 ### Budget App
 
-The `budget.py` script defines a `Category` class that can be used to track deposits, withdrawals, and transfers between different budget categories. The class also includes a method to generate a spending chart that visually represents the percentage spent in each category.
+The `BudgetApp.py` script defines a `Category` class that can be used to track deposits, withdrawals, and transfers between different budget categories. The class also includes a method to generate a spending chart that visually represents the percentage spent in each category.
+
+### Time Calculator
+The 'TimeCalculator.py' script provides functionality to add a specified duration to a given start time. It handles 12-hour time formats with AM/PM and can optionally calculate the day of the week based on the provided start day.
 
 ### Polygon Area Calculator
 
-The `polygon.py` script includes a `Rectangle` class and a `Square` class that can be used to calculate the area, perimeter, and diagonal length of these shapes. The script also allows for the visualization of these shapes with ASCII art and checks how many times one shape can fit inside another.
+The `PolygonAreaCalculator.py` script includes a `Rectangle` class and a `Square` class that can be used to calculate the area, perimeter, and diagonal length of these shapes. The script also allows for the visualization of these shapes with ASCII art and checks how many times one shape can fit inside another.
 
 ### Probability Calculator
 
-The `prob_calculator.py` script contains a `Hat` class to simulate drawing balls of different colors from a hat. The `experiment` function simulates multiple experiments to calculate the probability of drawing a specific combination of balls. This is particularly useful for understanding probability through simulation.
+The `ProbabilityCalculator.py` script contains a `Hat` class to simulate drawing balls of different colors from a hat. The `experiment` function simulates multiple experiments to calculate the probability of drawing a specific combination of balls. This is particularly useful for understanding probability through simulation.
 
 ## Installation
 
 To use or modify the code in this repository, you'll need Python installed on your system. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/yourusername/scientific-computing-with-python.git
+git clone https://github.com/pedrohhenriqueas/Scientific-Computing-with-Python.git
 ```
 
 ## Usage
@@ -50,13 +54,13 @@ git clone https://github.com/yourusername/scientific-computing-with-python.git
 Each project is self-contained within its respective script. You can run each script using Python:
 
 ```bash
-python arithmetic_arranger.py
+python ArithmeticFormatter.py
 ```
 
 or
 
 ```bash
-python budget.py
+python BudgetApp.py
 ```
 
 Make sure to review the comments and explanations within each script for a better understanding of how the code works.
