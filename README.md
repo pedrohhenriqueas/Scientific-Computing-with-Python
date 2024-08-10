@@ -41,6 +41,9 @@ The `PolygonAreaCalculator.py` script includes a `Rectangle` class and a `Square
 
 The `ProbabilityCalculator.py` script contains a `Hat` class to simulate drawing balls of different colors from a hat. The `experiment` function simulates multiple experiments to calculate the probability of drawing a specific combination of balls. This is particularly useful for understanding probability through simulation.
 
+## Tools
+- [Python](https://docs.python.org/3/)
+
 ## Installation
 
 To use or modify the code in this repository, you'll need Python installed on your system. Clone this repository to your local machine using:
