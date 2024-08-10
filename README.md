@@ -7,7 +7,7 @@ This repository contains solutions and exercises from the **Scientific Computing
 
 - [Overview](#overview)
 - [Projects](#projects)
-  - [Arithmetic Formatter](#Arithmetic Formatter)
+  - [Arithmetic Formatter](#ArithmeticFormatter)
   - [Budget App](#BudgetApp)
   - [Polygon Area Calculator](#PolygonAreaCalculator)
   - [Probability Calculator](#ProbabilityCalculator)
