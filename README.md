@@ -68,7 +68,3 @@ python BudgetApp.py
 ```
 
 Make sure to review the comments and explanations within each script for a better understanding of how the code works.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
