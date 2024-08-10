@@ -22,7 +22,7 @@ The **Scientific Computing with Python** course is part of the FreeCodeCamp curr
 
 ## Projects
 
-### Arithmetic Formatter
+## Arithmetic Formatter
 
 The `ArithmeticFormatter.py` script arranges and optionally solves simple arithmetic problems. It takes a list of arithmetic problems and returns a neatly formatted string, optionally including the solutions.
 
