@@ -12,6 +12,7 @@ This repository contains solutions and exercises from the **Scientific Computing
   - [Polygon Area Calculator](#PolygonAreaCalculator)
   - [Probability Calculator](#ProbabilityCalculator)
   - [Time Calculator](#TimeCalculator)
+- [Tools](#Tools)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
