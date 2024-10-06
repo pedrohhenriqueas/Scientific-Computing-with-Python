@@ -34,6 +34,7 @@ clothing = Category('Clothing')
 food.transfer(50, clothing)
 
 print(food)
+```
 Example Output
 markdown
 Copiar código
